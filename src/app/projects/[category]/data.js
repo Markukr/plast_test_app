@@ -5,7 +5,7 @@ export const items = {
          title: "Табір ХОРОБРІ СЕРЦЕМ",
          desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
          image:
-            "/camp_2023.jpg",
+            "/projects/camps/camp_2023.jpg",
          href: "camp_2023"
       },
       {
@@ -13,7 +13,7 @@ export const items = {
          title: "Табір ЗАХИСНИКИ РІДНОГО ВОГНИЩА",
          desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
          image:
-            "/camp_2022.jpg",
+            "/projects/camps/camp_2022.jpg",
          href: "camp_2022"
       },
       {
@@ -21,7 +21,7 @@ export const items = {
          title: "Табір рою Ластівка ",
          desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
          image:
-            "/camp_2021.png",
+            "/projects/camps/camp_2021.png",
          href: "camp_2021"
       }
    ],
@@ -31,7 +31,7 @@ export const items = {
          title: "Creative Portfolio",
          desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
          image:
-            "/need_photo.jpeg",
+            "/projects/meeting/need_photo.jpeg",
          href: "need_page_1"
       },
       {
@@ -39,7 +39,7 @@ export const items = {
          title: "Minimal Single Product",
          desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
          image:
-            "/need_photo.jpeg",
+            "/projects/meeting/need_photo.jpeg",
          href: "need_page_2"
       },
       {
@@ -47,7 +47,7 @@ export const items = {
          title: "Strong Together Charity",
          desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
          image:
-            "/need_photo.jpeg",
+            "/projects/meeting/need_photo.jpeg",
          href: "need_page_3"
       }
    ],
@@ -57,7 +57,7 @@ export const items = {
          title: "Creative Portfolio",
          desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
          image:
-            "/need_photo.jpeg",
+            "/projects/promotions/need_photo.jpeg",
          href: "need_page_1"
       },
       {
@@ -65,7 +65,7 @@ export const items = {
          title: "Minimal Single Product",
          desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
          image:
-            "/need_photo.jpeg",
+            "/projects/promotions/need_photo.jpeg",
          href: "need_page_2"
       },
       {
@@ -73,7 +73,7 @@ export const items = {
          title: "Strong Together Charity",
          desc: "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur vel tenetur necessitatibus unde natus perspiciatis, amet cupiditate ducimus possimus, eaque ex autem id nobis eum dolorem. Neque eveniet fugiat tenetur?",
          image:
-            "/need_photo.jpeg",
+            "/projects/promotions/need_photo.jpeg",
          href: "need_page_3"
       }
    ],
