@@ -17,7 +17,7 @@ export default function Home() {
         <Button url="/projects" text="ПОЛЕТІЛИ" />
       </div>
       <div className={styles.item}>
-        <Image src={Hero} alt='' className={styles.img} />
+        <Image src={Hero} priority={true} alt='' className={styles.img} />
       </div>
     </div>
   )
