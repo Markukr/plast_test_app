@@ -1,7 +1,7 @@
 "use client"
 
 import React, { useContext } from "react";
-import styles from "./darkModeToggle.module.css";
+import styles from "@/app/components/DarkModeToggle/DarkModeToggle.module.css"
 import { ThemeContext } from "@/context/ThemeContext";
 
 
