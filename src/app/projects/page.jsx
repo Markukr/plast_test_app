@@ -7,7 +7,7 @@ export const metadata = {
    description: "Сторінка проектів Пласту у данії, PLAST-DK",
 };
 
-const Проекти = () => {
+const Projects = () => {
    return (
       <div className={styles.container}>
          <h1 className={styles.selectTitle}>Відвідайте наші заходи</h1>
@@ -26,4 +26,4 @@ const Проекти = () => {
    )
 }
 
-export default Проекти
+export default Projects
